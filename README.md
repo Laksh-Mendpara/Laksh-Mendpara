@@ -1,4 +1,7 @@
-# 💫 About Me:
+
+<h1 align="center">Hi 👋, I'm Laksh Mendpara</h1>
+
+## 💫 About Me:
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="font-size: 1.2em; margin-bottom: 0.5em;">🔭 <strong>I’m a passionate Machine Learning and Deep Learning enthusiast</strong></li>
