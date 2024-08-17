@@ -17,12 +17,12 @@
   <li style="font-size: 1.2em; margin-bottom: 0.5em;">🌟 <strong>Projects Completed:</strong></li>
   <ul style="list-style-type: none; padding-left: 1em;">
     <li>CNN implementation in C language</li>
-    <li>FIFA football player price detection</li>
+    <li>FIFA football player price prediction</li>
   </ul>
 
   <li style="font-size: 1.2em; margin-bottom: 0.5em;">📫 <strong>How to reach me:</strong> <a href="mailto:b23cs1037@iitj.ac.in" style="color: #007bff; text-decoration: none;">b23cs1037@iitj.ac.in</a></li>
   
-  <li style="font-size: 1.2em; margin-bottom: 0.5em;">⚡ <strong>Fun Facts:</strong> Tech enthusiast, problem-solver, and avid reader.</li>
+  <li style="font-size: 1.2em; margin-bottom: 0.5em;">⚡ <strong>Fun Facts:</strong> Tech enthusiast, problem-solver, avid reader.</li>
 </ul>
 
 # 💻 My favorite tools and technologies:
