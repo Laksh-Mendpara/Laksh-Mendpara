@@ -30,7 +30,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laksh_mendpara?igsh=MWg2bWlyc3J3anZlbA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laksh-mendpara-5ab75b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Discord](https://img.shields.io/badge/discord-black.svg?logo=discord&logoColor=white)](https://discord.gg/laksh_mendpara) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laksh-mendpara-5ab75b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Discord](https://img.shields.io/badge/discord-black.svg?logo=discord&logoColor=white)](https://discord.gg/laksh_mendpara)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laksh_mendpara?igsh=MWg2bWlyc3J3anZlbA==)
 
 # 💻 My favorite tools and technologies:
 
