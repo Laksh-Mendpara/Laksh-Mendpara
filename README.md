@@ -32,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laksh-mendpara-5ab75b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Discord](https://img.shields.io/badge/discord-black.svg?logo=discord&logoColor=white)](https://discord.gg/laksh_mendpara)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/laksh_mendpara?igsh=MWg2bWlyc3J3anZlbA==)
 
-# 💻 My favorite tools and technologies:
+## 💻 My favorite tools and technologies:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -57,11 +57,19 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 | <a href="https://github.com/Laksh-Mendpara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh-Mendpara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Laksh's github stats" /></a> | <a href="https://github.com/Laksh-Mendpara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksh-Mendpara&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=Laksh-Mendpara" alt="GitHub Streak">
+</a>
+
+
+### 🌠 Top Repositories
+
+
+<a href="https://github.com/Laksh-Mendpara/ics_majorproject.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laksh-Mendpara&repo=ics_majorproject&theme=buefy" />
 </a>
