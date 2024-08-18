@@ -59,12 +59,20 @@
 
 ## 📊 GitHub Stats:
 
-| <a href="https://github.com/Laksh-Mendpara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh-Mendpara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Laksh's github stats" /></a> | <a href="https://github.com/Laksh-Mendpara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksh-Mendpara&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Laksh-Mendpara" alt="GitHub Streak">
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Laksh-Mendpara/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Laksh-Mendpara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Laksh's github stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=Laksh-Mendpara" alt="GitHub Streak">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### 🌠 Top Repositories
