@@ -75,7 +75,7 @@
 </table>
 
 
-### 🌠 Top Repositories
+### 🌠 Top Repositories:
 
 
 <a href="https://github.com/Laksh-Mendpara/ics_majorproject.git">
