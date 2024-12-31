@@ -5,27 +5,8 @@
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="font-size: 1.2em; margin-bottom: 0.5em;">🔭 <strong>I’m a passionate Machine Learning and Deep Learning enthusiast</strong></li>
-  
-  <li style="font-size: 1.2em; margin-bottom: 0.5em;">🌱 <strong>Currently Learning:</strong></li>
-  <ul style="list-style-type: none; padding-left: 1em;">
-    <li>Advanced topics in ML and DL</li>
-    <li>Working on:
-      <ul style="list-style-type: circle; padding-left: 1em;">
-        <li>Smart autonomous surveillance and anomaly detection</li>
-        <li>Extreme classification on >200k labels</li>
-      </ul>
-    </li>
-  </ul>
-
-  <li style="font-size: 1.2em; margin-bottom: 0.5em;">🌟 <strong>Projects Completed:</strong></li>
-  <ul style="list-style-type: none; padding-left: 1em;">
-    <li>CNN implementation in C language</li>
-    <li>FIFA football player price prediction</li>
-  </ul>
 
   <li style="font-size: 1.2em; margin-bottom: 0.5em;">📫 <strong>How to reach me:</strong> <a href="mailto:b23cs1037@iitj.ac.in" style="color: #007bff; text-decoration: none;">b23cs1037@iitj.ac.in</a></li>
-  
-  <li style="font-size: 1.2em; margin-bottom: 0.5em;">⚡ <strong>Fun Facts:</strong> Tech enthusiast, problem-solver, avid reader.</li>
 </ul>
 
 ## 🌐 Socials:
