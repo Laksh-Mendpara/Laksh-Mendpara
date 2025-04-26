@@ -54,15 +54,3 @@
     </td>
   </tr>
 </table>
-
-
-### 🌠 Top Repositories:
-
-
-<a href="https://github.com/Laksh-Mendpara/ics_majorproject.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laksh-Mendpara&repo=ics_majorproject&theme=buefy" />
-</a>
-
-<a href="https://github.com/Laksh-Mendpara/PlaWorDet-WARP24.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laksh-Mendpara&repo=PlaWorDet-WARP24&theme=buefy" />
-</a>
