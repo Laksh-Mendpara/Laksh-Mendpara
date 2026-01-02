@@ -4,8 +4,9 @@
 ## 💫 About Me:
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="font-size: 1.2em; margin-bottom: 0.5em;">🔭 <strong>I’m a passionate Machine Learning and Deep Learning enthusiast</strong></li>
-
+  <li style="font-size: 1.2em; margin-bottom: 0.5em;">🔭 <strong>Computer Science student at IIT Jodhpur with experience in building scalable AI pipelines.</strong></li>
+  <li style="font-size: 1.2em; margin-bottom: 0.5em;">⚙️ <strong>Worked on production-grade ML system design for real-time and edge deployments.</strong></li>
+  <li style="font-size: 1.2em; margin-bottom: 0.5em;">📐 <strong>Interested in system architecture, model optimization, and reliable large-scale AI workflows.</strong></li>
   <li style="font-size: 1.2em; margin-bottom: 0.5em;">📫 <strong>How to reach me:</strong> <a href="mailto:b23cs1037@iitj.ac.in" style="color: #007bff; text-decoration: none;">b23cs1037@iitj.ac.in</a></li>
 </ul>
 
